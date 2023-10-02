@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\bin\Debug\randomrenk.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\bin\Debug\randomrenk.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\bin\Debug\randomrenk.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\obj\Debug\randomrenk.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\obj\Debug\randomrenk.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\obj\Debug\randomrenk.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\obj\Debug\randomrenk.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\obj\Debug\randomrenk.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\obj\Debug\randomrenk.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\obj\Debug\randomrenk.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\randomrenk\randomrenk\obj\Debug\randomrenk.pdb

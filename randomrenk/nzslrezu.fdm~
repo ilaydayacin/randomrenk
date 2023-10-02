@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace randomrenk
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void btnRandom_Click(object sender, EventArgs e)
+        {
+            Random random = new Random();
+            int pembe = random.Next(0, 255);
+            int turkuaz = random.Next(0, 263);
+            int mor = random.Next(0, 228);
+
+            Color renk = Color.FromArgb(pembe, turkuaz, mor);
+            this.BackColor = renk;
+        }
+    }
+}
